@@ -10,7 +10,7 @@
 идет ссылка на текстовое поле с надписью: «Попробуй еще раз!» Если 
 пользователь угадал число, то большими красными буквами выводится: 
 «ВЕРНО (угадано за … попыток)».  
-[Решение:](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_1.php) <br>
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_1.php) <br> <br>
 + Тз 2: <br>
 В HTML-форме предусмотрите поля для ввода результатов
 по прыжкам в длину для четырех спортсменов, фамилии которых заранее
@@ -21,4 +21,4 @@
 выводит массив в отсортированном виде (по убыванию или по возраста-
 нию). Перед сортировкой предусмотрите преобразование введенных дан-
 ных в вещественные числа. <br>
-[Решение:](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_2.php) 
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_2.php) 
