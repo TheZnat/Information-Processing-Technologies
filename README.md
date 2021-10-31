@@ -18,4 +18,4 @@
 Перед сортировкой предусмотрите преобразование введенных данных в вещественные числа.
 ```
 [Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_2.php) <br> <br>
-## Пртика 3
+## Практика 3
