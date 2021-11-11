@@ -22,4 +22,4 @@
 ```
 crud приложение php
 ```
-[Решение]() <br> <br>
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/tree/main/lab5) <br> <br>
