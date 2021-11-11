@@ -17,4 +17,9 @@
 При выводе списка книг любимая должна быть выделена жирным шрифтом.
 ```
 [Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/IPT_PHP/laba_3_task_2.php) <br> <br>
-## Практика 3
+
+## Лаба 5
+```
+crud приложение php
+```
+[Решение]() <br> <br>
