@@ -22,7 +22,7 @@
                         <p>Вы уверены,что хотите удалить запись?</p><br>
                         <p>
                             <input type="submit" value="Да" class="btn btn-danger">
-                            <a href="login.php" class="btn btn-default">Нет</a>
+                            <a href="indexl_lab5.php" class="btn btn-default">Нет</a>
                         </p>
                     </div>
                 </form>
