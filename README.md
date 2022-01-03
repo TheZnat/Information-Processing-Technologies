@@ -11,7 +11,7 @@
 Структурируем информацию, представленную в лабораторной работе 1, в виде дерева с помощью Java-кода!
 
 ```
-[Решение](https://github.com) <br> <br>
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/pr%20-%201/Main.java) <br> <br>
 
 ## Лаба 3
 + тз 1: <br>
@@ -39,13 +39,13 @@
 четвортой - описание, и далее до 5-6 тегов. Далее в php - скрипте прочитайте файл построчно и выведе в виде таблицы. 
 Скрипт должен сосчитать, сколько всего тегов описано в файле и вывести ниже таблицы пример: "Всего описано 7 тегов"
 ```
-[Решение](https://github.com) <br> <br>
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/pr_3/praktic3_1.php) <br> <br>
 + тз 2: <br>
 ```
 Опишите форму для загрузки файлов. Используйте ее для загрузки. Если полученный файл не прывышает 1 Мбайта и не было 
 ошибок при передачи, создаеться папка NewDir и копируеться в нее файл. 
 ```
-[Решение](https://github.com) <br> <br>
+[Решение](https://github.com/TheZnat/Information-Processing-Technologies/blob/main/pr_3/practic3_2.php) <br> <br>
 [Решение на Replit](https://replit.com/@TheZnat/Praktichieskaiarabota-3#pr3_2.php) <br> <br>
 
 
